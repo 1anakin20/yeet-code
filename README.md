@@ -12,7 +12,7 @@ Standard C++ library's, C++ compiler.
 
 ## Built With
 
-Made with Xcode 10.2.1 (https://developer.apple.com/xcode/.
+Made with Xcode 10.2.1 (https://developer.apple.com/xcode/).
 
 ## Authors
 
