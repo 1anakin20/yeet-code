@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B3CE66CE22715DA900704E18 /* yeet */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = yeet; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3CE66D122715DA900704E18 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B3CE66D82271DE0400704E18 /* yeet.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = yeet.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B3CE66D122715DA900704E18 /* main.cpp */,
+				B3CE66D82271DE0400704E18 /* yeet.h */,
 			);
 			path = yeet;
 			sourceTree = "<group>";

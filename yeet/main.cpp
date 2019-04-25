@@ -7,20 +7,7 @@
 //
 
 #include <iostream>
-
-#define YEET int
-#define YEEET main
-#define yEET (
-#define YEEt )
-#define Yeet {
-#define yeeT }
-#define YeET 0
-#define YEEeT std
-#define yeet cout
-#define YEeET ::
-#define yEet <<
-#define yeEt ;
-#define YEeT return
+#include "yeet.h"
 
 YEET YEEET yEET YEEt
 Yeet
