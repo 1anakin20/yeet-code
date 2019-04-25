@@ -2,8 +2,8 @@
 //  yeet.h
 //  yeet
 //
-//  Created by Tomas Daniel Nieto on 2019-04-25.
-//  Copyright © 2019 Tomas Daniel Nieto. All rights reserved.
+//  Created by 토맛 다니엘 on 2019-04-25.
+//  Copyright © 2019 T토맛 다니엘. All rights reserved.
 //
 
 #ifndef yeet_h
