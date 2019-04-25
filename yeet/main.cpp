@@ -8,8 +8,22 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-	// insert code here...
-	std::cout << "Hello, World!\n";
-	return 0;
-}
+#define YEET int
+#define YEEET main
+#define yEET (
+#define YEEt )
+#define Yeet {
+#define yeeT }
+#define YeET 0
+#define YEEeT std
+#define yeet cout
+#define YEeET ::
+#define yEet <<
+#define yeEt ;
+#define YEeT return
+
+YEET YEEET yEET YEEt
+Yeet
+YEEeT YEeET yeet yEet "yeet\n" yeEt
+YEeT YeET yeEt
+yeeT
