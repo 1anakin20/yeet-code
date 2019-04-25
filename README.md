@@ -8,7 +8,7 @@ Simply clone this github repo and compile it.
 
 ### Prerequisites
 
-Standard C++ library's, C++ compiler.
+Standard C++ libraries, C++ compiler (Tested with Xcode LLVM but should theorically work with any other one).
 
 ## Built With
 
