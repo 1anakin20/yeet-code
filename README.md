@@ -24,5 +24,5 @@ Thanks for the internet for sharing the the yeet code meme, without it I wouldn'
 Special thanks for the person who made that meme.
 
 
-가요 시간
+가요 시간\n
 Made by, 토맛 다니엘 니에토
