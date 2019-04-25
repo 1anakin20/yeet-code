@@ -23,6 +23,11 @@ Me someone with to much free time.
 Thanks for the internet for sharing the the yeet code meme, without it I wouldn't have used my free time doing this.
 Special thanks for the person who made that meme.
 
+## License
+I have choosen no license, however you can't pass this work as your own. You need to include this repo link
+https://github.com/1anakin20/yeet-public
+and give proper credits to me, 토맛 다니엘. 
+New ideas are also welcome, you can play around with the code, but **DON'T** make it closed source.
 
 가요 시간
 
