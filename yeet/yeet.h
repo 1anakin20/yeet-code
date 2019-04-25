@@ -12,6 +12,8 @@
 // Yeet defined
 #define YeeT cin
 #define YeeTT >>
+#define YeEt +
+#define yeEeT =
 #define YEET int
 #define YEEET main
 #define yEET (
