@@ -25,11 +25,7 @@ Special thanks for the person who made that meme.
 Source: https://www.reddit.com/r/ProgrammerHumor/comments/bgdxwn/yeet/?utm_medium=android_app&utm_source=share
 
 ## License
-I have choosen no license, however you can't pass this work as your own. You need to include this repo link
-https://github.com/1anakin20/yeet-public
-and give proper credits to me, 토맛 다니엘. 
-New ideas are also welcome, you can play around with the code, but **DON'T** make it closed source.
-This can change without any notice.
+Do whatever you want with it, have fun
 
 가요 시간
 
